@@ -18,7 +18,7 @@
     color: #4e515e;
     text-align: left;
     font-family: arial;
-    box-sizing: content-box;
+    box-sizing: content-box
 }
 
 .gigya-locale-ar .gigya-checkbox-text,
@@ -509,7 +509,6 @@
     text-align: center;
     font-size: 14px
 }
-
 
 .gigya-screen.portrait div.gigya-tfa .gig-tfa-container .gig-tfa-button-container .gig-tfa-button-submit:active,
 .gigya-screen.portrait div.gigya-tfa .gig-tfa-container .gig-tfa-button-container .gig-tfa-button-submit:hover,
